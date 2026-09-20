@@ -220,4 +220,4 @@ This repository serves as the official landing page for Windows DVD Player. The 
 **Get the most recent version of Windows DVD Player today!**
 
 ---
-**Last updated:** 2026-09-19 22:11:11 UTC
+**Last updated:** 2026-09-20 00:44:29 UTC
